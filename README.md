@@ -1,2 +1,2 @@
-# 飞机大战
+# game
 使用python的pygame模块制作的飞机大战游戏
